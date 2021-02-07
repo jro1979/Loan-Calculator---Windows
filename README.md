@@ -1,5 +1,5 @@
 # Loan-Calculator-For-Windows
-Loan Calculator Program for Windows - C++ console program.
+Loan Calculator Program for Windows - C console program.
 
 -Calculate monthly payment size
 
